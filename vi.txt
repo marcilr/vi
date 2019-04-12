@@ -1,0 +1,49 @@
+vi.txt
+Created Fri Apr 12 14:32:30 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+vi line editor
+
+
+vi is a screen-oriented text editor originally created for the
+Unix operating system.  The portable subset of the behavior of
+vi and programs based on it, and the ex editor language supported
+within these programs, is described by (and thus standardized by)
+the Single Unix Specification and POSIX.[1]
+
+The original code for vi was written by Bill Joy in 1976, as the
+visual mode for a line editor called ex that Joy had written with
+Chuck Haley.[2]  Bill Joy's ex 1.1 was released as part of the
+first Berkeley Software Distribution (BSD) Unix release in March 1978.
+It was not until version 2.0 of ex, released as part of Second BSD in
+May 1979 that the editor was installed under the name "vi" (which
+took users straight into ex's visual mode),[3] and the name by which
+it is known today.  Some current implementations of vi can trace their
+source code ancestry to Bill Joy; others are completely new, largely
+compatible reimplementations.
+--en.wikipedia.org/wiki/Vi
+
+
+
+Links
+=====
+[1] Single Unix Specification and POSIX.[1]
+The IEEE & The Open Group (2013). ""vi — screen-oriented (visual)
+display editor", The Open Group Base Specifications Issue 7;
+IEEE Std 1003.1, 2013 Edition". Retrieved 2013-07-15.
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/vi.html
+
+[2] "Interview with Bill Joy". Archived from the original on
+10 February 2012. Retrieved 3 June 2017.
+https://web.archive.org/web/20120210184000/http://web.cecs.pdx.edu/~kirkenda/joy84.html
+http://web.cecs.pdx.edu/~kirkenda/joy84.html
+
+[3] "Second Berkeley Software Distriution Manual".
+roguel ife.org. Retrieved 27 March 2018.
+http://roguelife.org/~fujita/COOKIES/HISTORY/2BSD/
+
+vi
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Vi
+
