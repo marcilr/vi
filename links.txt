@@ -8,6 +8,21 @@ vi related links
 
 Links
 =====
+An Introduction to Display Editing with Vi
+Nice paper
+https://docs.freebsd.org/44doc/usd/12.vi/paper.pdf
+
+Ex Reference Manual
+Another nice paper
+https://docs.freebsd.org/44doc/usd/10.exref/paper.pdf
+
+VI Quick Reference
+https://pangea.stanford.edu/computing/unix/editing/viquickref.pdf
+
 vi
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Vi
+
+Twelve Useful "vi" Commands
+Extremely useful vi commands here
+http://www.eng.buffalo.edu/~yearke/unix/vi12.shtml
